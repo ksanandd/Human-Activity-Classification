@@ -1,0 +1,28 @@
+# Python virtual environments
+.venv/
+.venv-*/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local PAMAP2 dataset
+data/PAMAP2/
+
+# Processed datasets (large generated files)
+data/processed/*.parquet
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log

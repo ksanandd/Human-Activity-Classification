@@ -1,0 +1,7 @@
+Model,Full Accuracy (%),Full Precision (%),Full Recall (%),Full F1 (%),Limited Accuracy (%),Limited Precision (%),Limited Recall (%),Limited F1 (%)
+Logistic Regression,85.7,85.4,85.7,85.48,66.72,65.87,66.72,66.0
+RBF SVM,96.44,96.28,96.25,96.24,88.82,88.97,89.11,89.0
+Decision Tree,98.31,98.32,98.31,98.31,97.61,97.62,97.61,97.61
+AdaBoost,88.4,89.11,88.4,88.49,75.02,76.57,75.02,75.5
+Random Forest,99.22,99.22,99.22,99.22,96.81,96.83,96.81,96.79
+MLP Neural Network,94.92,94.88,94.92,94.86,83.59,83.5,83.59,83.36
